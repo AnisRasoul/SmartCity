@@ -1,4 +1,4 @@
-# Travel Preferences App
+# Boumerdess SmartCity App
 
 This project is an **Ionic Vue** application designed to let users select their preferences for travel styles, food preferences, and places of interest. It also includes a separate **dashboard** for managing the app's functionality and an **interactive map** for displaying bus lines.
 
